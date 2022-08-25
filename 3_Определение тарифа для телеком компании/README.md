@@ -6,11 +6,7 @@
 Обе гипотезы подтвердились: средняя выручка разных тарифов и в разных регионах не равны.
 
 ### Стек:
-pandas
-matplotlib
-seaborn
-numpy
-stats
-math
+Python, Pandas, Seaborn, Matplotlib.
+
 ### Статус проекта:
 завершен
