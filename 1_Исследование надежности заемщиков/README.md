@@ -2,7 +2,7 @@
 ## Задача
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
 
-https://github.com/Energosboy/Yandex_Practikum_Data_Analyst/tree/main/1_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2
+[Исследование надежности  заемщиков] (https://github.com/Energosboy/Yandex_Practikum_Data_Analyst/tree/main/1)
 
 
 ## Описание данных
